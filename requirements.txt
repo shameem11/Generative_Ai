@@ -1,0 +1,11 @@
+langchain_core 
+langchain_community
+langchain-openai
+langchain-huggingface
+langserve
+python-dotenv
+streamlit
+fastapi
+uvicorn
+beautifulsoup4
+langchain-pinecone
